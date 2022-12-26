@@ -10,6 +10,6 @@
 ```
 
 ### [challenge]
-**1D 1Commit**
+**1Week 3Commit**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwangseok2&theme=dark&show_icons=true)
