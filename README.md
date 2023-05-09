@@ -5,7 +5,7 @@
 
 ### [stack]
 ```
-  HTML, CSS, SCSS, Javascript, Jquary, PHP, Git, Sourcetree, Vue.js, Nuxt.js 
+  HTML, CSS, SCSS, Javascript, Vue.js, Nuxt.js, React.js, Jquary, PHP, Git, Sourcetree 
 ```
 
 ### [challenge]
