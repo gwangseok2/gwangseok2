@@ -1,8 +1,7 @@
 ## 2021.04.13 부터 Web개발 일과 공부를 하는 송광석 입니다. 😁
 
 ### [career]
-1) **2021.04.13 ~ 2021.12.31 [WEB,APP(webview)] - Publisher**
-2) **2022.01.01 ~ Now - Front-end Developer <br>**
+1) **2021.04.13 ~ Now - Front-end Developer <br>**
 
 ### [stack]
 ```
